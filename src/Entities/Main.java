@@ -7,7 +7,7 @@ import Concrates.OfferManager;
 public class Main {
 
 	public static void main(String[] args) {
-		Gamer gamer = new Gamer(1111111,20,"Berkay","Çelikdemir","Sikici_31","Erkek");
+		Gamer gamer = new Gamer(1111111,20,"Berkay","Ã‡elikdemir","Brk","Erkek");
 			
 		Mernis mernis = new Mernis();
 		mernis.check(gamer);
